@@ -1,6 +1,6 @@
 # Exercise-02d-Menu-and-HUD
 
-Exercise for MSCH-C220
+Project for MSCH-C220
 
 A basic space-shooter arcade game, created in Godot.
 
@@ -14,11 +14,13 @@ The explosion spritesheet was released into the public domain by [StumpyStrust](
 
 The Hyperspace typeface was developed by [Pixel Sagas](https://www.dafont.com/hyperspace.font) and is freely available for personal use.
 
+Explosion sound provided for free by https://mixkit.co/
+
 ## References
 None
 
 ## Future Development
-Advanced features?
+None planned
 
 ## Created by
 Nicholas Heneisen

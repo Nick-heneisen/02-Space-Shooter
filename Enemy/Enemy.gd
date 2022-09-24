@@ -34,12 +34,10 @@ func damage(d):
 			explosion.global_position = global_position
 		queue_free()
 
-
 func _on_Area2D_body_exited(body):
 	if body.name == "Player":
 		body.damage(100)
 		damage(100)
-
 
 func _on_Timer_timeout():
 	var Player = get_node_or_null("/root/Game/Player_Container/Player")
